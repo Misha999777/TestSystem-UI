@@ -1,0 +1,30 @@
+#MathJax_Message {
+  display: none;
+}
+
+.Test {
+  width: 400px;
+  padding-top: 50px;
+  margin: auto;
+}
+
+.answered {
+  color: green;
+}
+
+.Code {
+  width: 100%;
+  word-break: break-all;
+}
+
+.radio {
+  padding-top: 50px;
+}
+
+#register {
+  float: right;
+}
+
+.h1 {
+  margin: auto;
+}

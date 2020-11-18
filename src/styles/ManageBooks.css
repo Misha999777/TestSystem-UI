@@ -1,0 +1,32 @@
+.manage-books-table {
+  width: 100%;
+  word-break: break-all;
+  padding-right: 15px;
+}
+
+.manage-books-button {
+  padding-bottom: 20px;
+  padding-top: 10px;
+  padding-left: 10px;
+}
+
+.add-question {
+  padding-top: 25px;
+  display: flex;
+  justify-content: center;
+}
+
+.select-days-button {
+  padding-left: 14px;
+}
+
+.delete-books-button {
+  padding-bottom: 20px;
+  padding-top: 10px;
+  background-color: Transparent;
+  background-repeat: no-repeat;
+  border: none;
+  cursor: pointer;
+  overflow: hidden;
+  outline: none;
+}
