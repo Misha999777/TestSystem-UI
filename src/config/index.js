@@ -1,4 +1,4 @@
-export const AUTHORITY = "https://auth.tcomad.tk/auth/realms/test";
-export const CLIENT_ID = "UniBot-UI";
-export const BASE_URL = "http://localhost:8080";
-export const HOME_URL = "http://localhost:3000";
+export const AUTHORITY = "https://auth.tcomad.tk/auth/realms/tCoMaD";
+export const CLIENT_ID = "TestSystem-UI";
+export const BASE_URL = "https://catalina.tcomad.tk";
+export const HOME_URL = "https://testsystem.tcomad.tk/";
